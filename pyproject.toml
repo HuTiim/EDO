@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "Projeto Lista EDO"
+version = "1.0.0"
+requires-python = ">=3.13"
+dependencies = ["numpy", "matplotlib"]
+description = "Construindo o arquivo para o projeto da lista de EDO pelo .toml."
+readme = "README.md"
+
+[tool.setuptools.packages.find]
+where = ["src"]
