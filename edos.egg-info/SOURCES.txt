@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+edos/__init__.py
+edos/euler.py
+edos.egg-info/PKG-INFO
+edos.egg-info/SOURCES.txt
+edos.egg-info/dependency_links.txt
+edos.egg-info/requires.txt
+edos.egg-info/top_level.txt

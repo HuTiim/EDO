@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: edos
+Version: 1.0.0
+Summary: Construindo o arquivo para o projeto da lista de EDO pelo .toml.
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+
+# Biblioteca de EDOs
